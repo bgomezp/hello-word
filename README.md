@@ -1,3 +1,3 @@
 # hello-word
 repositorio de prueba
-Cambioen Reademe para efectos d eprobar una nueva rama o branch
+Cambio en Readme para efectos de probar una nueva rama o branch
